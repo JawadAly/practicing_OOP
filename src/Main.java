@@ -6,6 +6,7 @@ public class Main{
 //        System.out.println(zain.getAnnualSallary());
 //        zain.raiseSallary(25);
 //        System.out.println(zain.getSallary());
-        LearningGui g1 = new LearningGui();
+//        LearningGui g1 = new LearningGui();
+        LoginForm f1 = new LoginForm();
     }
 }
